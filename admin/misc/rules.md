@@ -10,7 +10,7 @@
 
 Team member info:
 
-![image](/admin/misc/roles.jpg)
+![image](admin/misc/rules.md)
 
 2) Primary Means of Communication and Expectations
 
@@ -38,7 +38,7 @@ This element of the team working agreement is the list of rules/agreements or th
 
 5) Specific Team Member Responsibilities/Deadlines _(Optional)_
 
-![image](/admin/misc/roles.jpg)
+![image](admin/misc/roles.jpg)
 
 This section may be used to record specific tasks or responsibilities particular team members have assumed.
 
