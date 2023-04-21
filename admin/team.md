@@ -1,10 +1,8 @@
-<span style="background-color:green">
 # Team Canary
 
 Hello, and welcome to team Canary in the CSE110! We are all passionate about technology and are excited to work together on various projects and assignments throughout the quarter.
 
 # Meet the Team
-
 ## Leader
 
 ### Saman Khadivar [Email](mailto:skhadivar@ucsd.edu)|[Github](https://github.com/Samdopika) 
