@@ -4,7 +4,6 @@ Hello, and welcome to team Canary in the CSE110! We are all passionate about tec
 
 # Meet the Team
 ## Leader
-
 ### Saman Khadivar [Email](mailto:skhadivar@ucsd.edu)|[Github](https://github.com/Samdopika) 
 
 Saman is a Computer Science student and the founder and CEO of [SullDog](https://www.sulldog.com/) with various projects/interns experiences. He is passionate about software development and programming and always eager to learn the latest industry trends, best practices, and algorithm updates.
@@ -13,17 +12,16 @@ Saman is a Computer Science student and the founder and CEO of [SullDog](https:/
 Van is a junior majoring in Computer Engineering and has a particular interest in robotics and embedded development. He is always eager to learn and work with physical components and operation of the computing system. Some tips for a better sleep: ~~quiet space~~ get a cat :cat2:.
 
 ## Planner
-
 ### Matthew Gross [Email](mailto:magross@ucsd.edu)|[Github](https://github.com/maarongross) 
 Matthew is a senior majoring in computer engineering and has decent knowledge about C/C++, Java, MIPS Assembly, and Python. By the way, he speaks English very fluently. Some of his hobbies include: gaming, cubing, rock climbing, and etc.
 
-## Developer
-
-### Jun Linwu [Email](mailto:julinwu@ucsd.edu)|[Github](https://github.com/fillna) 
-Jun is a junior majoring in Data Science and is interested in gaining some industry-like group project experience as a software engineer. She is skilled in Python, Java, HTML/CSS/JavaScript, C/C++. In her free time, she enjoys playing basketball :basketball: and badminton.
-
+## Designer
 ### Justin Chiang [Email](mailto:j2chiang@ucsd.edu)|[Github](https://github.com/justin-chiang) 
 Justin is a sophomore majoring in Computer Science. He is sklled in Java, Python, and JavaScript. In his free time, he enjoys playing volleyball and soccer :soccer:, learning fingerstyle guitar, and thrifting & second-hand fashion.
+
+## Developer
+### Jun Linwu [Email](mailto:julinwu@ucsd.edu)|[Github](https://github.com/fillna) 
+Jun is a junior majoring in Data Science and is interested in gaining some industry-like group project experience as a software engineer. She is skilled in Python, Java, HTML/CSS/JavaScript, C/C++. In her free time, she enjoys playing basketball :basketball: and badminton.
 
 ### Minh Nhat Duong [Email](mailto:m7duong@ucsd.edu)|[Github](https://github.com/minhnhat1901) 
 [Minh](https://github.com/m7duong) is a Computer Science student who aspires to become a game developer and is actively working towards the goal. He has experiences with C++, Java, and Python. In term of hobby, he enjoys playing video games and badminton :cherry_blossom:.
