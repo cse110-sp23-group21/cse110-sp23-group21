@@ -5,27 +5,33 @@
 1. Sam
 
 ## Place and Time
-3:00pm - 4:30 @ CSE 2f
+3:00pm - 4:30 @ CSE 2nd Floor
 
-## Objectives
-1. clarify roles
-2. discuss team formation assignments and assign people in charge
-3. create team contract
-4. work on team brand
+## Agenda
+1. Clarify roles
+2. Discuss team formation assignments and assign people to roles
+3. Discuss and create team contract
+4. Work on team brand
+
+### Unresolved from previous meeting
+- N/A
+
+### New business to be discussed
+- N/A
    
-## Completed tasks
-    all except team brand
-## tasks to be finished
-1. video and team page
-2. contract signiture
+### Business to be discussed for next meeting
+- Team Brand
 
-## timeline
-- finish team formation assignments by 04/20 (tomorrow)
-- discuss 8-ball proj on Fri di session
-- started brainstorming ideas week4
+## Tasks to-do
+1. Video and team page
+2. Contract signatures
+
+## Timeline
+- Finish team formation assignments by 04/20 (tomorrow)
+- Discuss 8-ball project on Friday meeting
+- Started brainstorming ideas (week 4)
 
 ## Decisions
-
 - Matthew Gross will be maintaining Team21 group repo
 - Gil Keidar will create the intro video
 - Jun Linwu will create the team page
