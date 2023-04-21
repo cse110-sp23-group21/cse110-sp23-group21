@@ -1,4 +1,11 @@
-# 041923 @3pm (hybrid)
+
+# Team 21 kickoff meeting, 041923 @3pm (hybrid)
+
+### Absent:
+1. Sam
+
+## Place and Time
+3:00pm - 4:30 @ CSE 2f
 
 ## Objectives
 1. clarify roles
