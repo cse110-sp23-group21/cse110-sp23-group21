@@ -6,7 +6,7 @@
 
 1) Group Identification
  Instructor – Powell
- Team Name – Sopranos (temporary)
+ Team Name – Canary
 
 Team member info:
 
