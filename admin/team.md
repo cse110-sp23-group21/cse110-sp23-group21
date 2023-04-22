@@ -15,7 +15,7 @@ Van is a junior majoring in Computer Engineering and has a particular interest i
 
 ## Planner
 ### Matthew Gross [Email](mailto:magross@ucsd.edu)|[Github](https://github.com/maarongross) 
-Matthew is a senior majoring in computer engineering and has decent knowledge about C/C++, Java, MIPS Assembly, and Python. By the way, he speaks English very fluently. Some of his hobbies include: gaming, cubing, rock climbing, and etc.
+Matthew is a senior majoring in computer engineering and has decent knowledge about C/C++, Java, MIPS Assembly, and Python. By the way, he speaks English very fluently. Some of his hobbies include: gaming, cubing, and rock climbing.
 
 ## Designer
 ### Justin Chiang [Email](mailto:j2chiang@ucsd.edu)|[Github](https://github.com/justin-chiang) 
