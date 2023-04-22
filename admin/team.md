@@ -2,6 +2,11 @@
 
 Hello, and welcome to team Canary in the CSE110! We are all passionate about technology and are excited to work together on various projects and assignments throughout the quarter.
 
+### Brand
+Team Color : Yellow
+
+![team logo](/admin/branding/canary21logo.png)
+
 ## [Team Intro Video](https://youtu.be/KJkwfI7wPIY)
 
 # Meet the Team
@@ -42,6 +47,7 @@ Hayden is a sophomore majoring in Computer Science. He is originally from Santa 
 
 
 # Values/Culture
+- Communication and Care: creating a supportive and collaborative team culture.
 - Eagerness: willingness and enthusiasm to take on challenges, learn new skills, and pursue excellence as a team.
 - Empathy: treat others how you would like to be treated.
 - Respect: treating others with dignity and recognizing their value and contributions.
