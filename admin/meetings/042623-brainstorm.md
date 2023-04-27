@@ -1,7 +1,9 @@
+<<<<<<< HEAD
 # Team 21 Brainstorming meeting, 042623 @3pm (zoom) and 043023 @3pm (zoom)
 
 ### Absent:
-
+Sam.
+Minh left early
 
 ## Place and Time
 3:00pm - 4:30 @ zoom
@@ -34,6 +36,6 @@
 - tbd
 
 
-![image](/admin/meetings/meeting%20pic/app%20brainstorm.png)
+![image](/admin/meetings/meeting%20pic/brainstorm.png)
 
 
