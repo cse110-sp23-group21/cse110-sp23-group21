@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Team 21 Brainstorming meeting, 042623 @3pm (zoom) and 043023 @3pm (zoom)
 
 ### Absent:
@@ -14,28 +13,28 @@ Minh left early
 
 
 ### Unresolved from previous meeting
-- N/A
+- project feature decisions
 
-### New business to be discussed
-- what the app is like
-- flow chart: phases and process, agile devlopment
-- user group
-- team assignment
+### New business to be discussed 
+- road map 
+- team assginment
+- user gropu
+
    
 ### Business to be discussed for next meeting
-- Team Brand
+
 
 ## Tasks to-do
-1. Project brainstorming
-2. miro chart
+- finalize brainstorming
 
 ## Timeline
 - brainstorming done by 4/30
 
 ## Decisions
-- tbd
+- an 8ball like fortune teller based on location (more detail in miro)
 
 
-![image](/admin/meetings/meeting%20pic/brainstorm.png)
+![image](/admin/meetings/meeting%20pic/brainstorm_complete.png)
+# [miro link](https://miro.com/welcomeonboard/ekJkbVdtWFRrOVJsSjhlSUpLWjA3TmY2YnNZQkd0SEJ1bEtEbnlWcFA0cW5DM3BCdjREcUNmc1d3eG9xbnlhWXwzNDU4NzY0NTUyODE2ODA3NDE0fDI=?share_link_id=492185977321)
 
 
