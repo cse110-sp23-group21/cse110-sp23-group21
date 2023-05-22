@@ -1,5 +1,11 @@
 # Team 21 Project - CI/CD Pipeline Phase 1 Status
 
+## CI/CD Pipeline Diagram
+<img src="phase1.jpg" />
+
+[The diagram representing our current CI/CD pipeline setup](phase1.jpg)
+
+
 ## Current Functionalities
 
 ### Code Style and Linting Enforcement
@@ -43,7 +49,3 @@
 - To simplify the deployment process for the completed CSS and HTML parts of each page, we are actively exploring options for deployment automation.
 
 - By automating the deployment process, we aim to streamline the deployment workflow and reduce the likelihood of human error. This will enable us to deliver updates and improvements to our application more efficiently and reliably.
-
-## CI/CD Pipeline Diagram
-
-[The diagram representing our current CI/CD pipeline setup](phase1.jpg)
