@@ -46,4 +46,4 @@
 
 ## CI/CD Pipeline Diagram
 
-[The diagram representing our current CI/CD pipeline setup]()
+[The diagram representing our current CI/CD pipeline setup](phase1.jpg)
