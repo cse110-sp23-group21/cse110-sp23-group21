@@ -30,9 +30,12 @@ None, everyone was present.
 - map of islands, each island is a country that a fortune telling method is based off of
 - islands cannot be simple (pins on an icon), but also not too complex
 - solid blue background?
-- component usage could be one wway of improving complexity over icons
+- component usage could be one way of improving complexity over icons
 
 ## Backend meeting:
+- Implementation detail of the engine
+- how should we connect to miniapps
+- input output should be hard coded and be one-to-one
 
 ###  Decisions
 
