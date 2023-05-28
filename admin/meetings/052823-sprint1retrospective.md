@@ -12,6 +12,7 @@
 - share what did we do well and what to improve
 - Survey on psychological safety
 - Mad, Sad, Glad about the sprint 1
+- pull request rules
 - groups assignment for miniapps
 - 
 
